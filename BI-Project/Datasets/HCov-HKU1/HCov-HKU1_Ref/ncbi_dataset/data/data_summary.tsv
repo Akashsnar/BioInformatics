@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Human coronavirus HKU1		isolate: HKU1	290028	ViralProj15139	GCA_000858765.1	GenBank	Annotation submitted by Department of Microbiology, The University of Hong Kong	Complete Genome	29926	29926	2006-01-18	8		
+Human coronavirus HKU1		isolate: HKU1	290028	ViralProj15139	GCF_000858765.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	29926	29926	2006-01-23	8		

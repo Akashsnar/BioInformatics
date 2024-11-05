@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+SARS coronavirus Tor2		isolate: Tor2	227984	ViralProj15500	GCA_000864885.1	GenBank		Complete Genome	29751	29751	2003-04-30			
+SARS coronavirus Tor2		isolate: Tor2	227984	ViralProj15500	GCF_000864885.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	29751	29751	2003-05-01	13		

@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Human coronavirus NL63		strain: Amsterdam I	277944	ViralProj14960	GCA_000853865.1	GenBank		Complete Genome	27553	27553	2004-06-22			
+Human coronavirus NL63		strain: Amsterdam I	277944	ViralProj14960	GCF_000853865.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	27553	27553	2004-06-24	6		
